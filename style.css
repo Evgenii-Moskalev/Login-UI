@@ -23,9 +23,9 @@ body {
     background-image: linear-gradient(10deg, #83e6f5, #15e0be);
     min-width: 20%;
     min-height: 50%;
-   
-	box-shadow: 3px 3px 5px 10px #4d275588  ; 
-	
+
+    box-shadow: 3px 3px 5px 10px #4d275588;
+
 }
 
 .login-form {
@@ -37,7 +37,7 @@ body {
     justify-content: space-around;
 }
 
-.login-form p {
+.login-form h2 {
     font-size: 2em;
 }
 
