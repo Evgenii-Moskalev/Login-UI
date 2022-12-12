@@ -4,7 +4,7 @@ signInBtn.onclick = function () {
     let inputPassword = document.getElementById('password').value;
     if (inputUsername != '' & inputPassword != '') {
         // console.log(inputUsername.length);
-        alert('Your entered Username: ' + inputUsername
-        + ' Your entered Password: ' + inputPassword);
+        alert('Your entered Username: ' + inputUsername 
+        + '\nYour entered Password: ' + inputPassword);
     }
 }
