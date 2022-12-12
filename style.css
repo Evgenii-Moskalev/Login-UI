@@ -1,0 +1,30 @@
+html,
+body {
+    margin: 0 auto;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-box {
+    display: flex;
+    border: dashed 2px rgb(127, 152, 228);
+    border-radius: 15px;
+    background-color: #68e8fb;
+    min-width: 20%;
+    min-height: 40%;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
